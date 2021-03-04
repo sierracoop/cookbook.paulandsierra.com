@@ -5,6 +5,8 @@ AUTHOR = 'Paul Schwendenman'
 SITENAME = "Paul and Sierra's Cookbook"
 SITEURL = ''
 
+THEME = 'cookbook.paulandsierra.com-theme'
+
 PATH = 'content'
 
 TIMEZONE = 'US/Eastern'
