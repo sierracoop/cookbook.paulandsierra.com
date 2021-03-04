@@ -5,7 +5,8 @@ AUTHOR = 'Paul Schwendenman'
 SITENAME = "Paul and Sierra's Cookbook"
 SITEURL = ''
 
-THEME = 'cookbook.paulandsierra.com-theme'
+# THEME = 'cookbook.paulandsierra.com-theme'
+THEME = "themes/cookbook"
 
 PATH = 'content'
 
