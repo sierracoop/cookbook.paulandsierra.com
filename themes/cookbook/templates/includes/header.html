@@ -1,11 +1,11 @@
-<div class="bg-white border-b border-gray-400 shadow-lg sm:sticky top-0 sm:h-20 md:h-24 z-40 items-center">
-<header id="banner" class="sm:h-12 md:h-20 w-full mx-auto sm:flex sm:justify-between sm:items-center sm:px-4 sm:py-3 mt-2">
+<div class="bg-white border-b border-gray-400 shadow-lg sm:sticky top-0 sm:h-20 md:h-24 z-40 items-center mb-8">
+<header id="banner" class="sm:h-12 md:h-20 w-full mx-auto sm:flex sm:justify-between sm:items-center sm:px-4 sm:py-3 mt-2 pb-2">
     <div class="flex items-center justify-between px-4 py-3 sm:p-2 md:text-2xl">
-        <h1 class="p-4"><a href="{{ SITEURL }}/">{{ SITENAME }}{% if SITESUBTITLE %} <strong>{{ SITESUBTITLE }}</strong>{% endif %}</a></h1>
+        <h1 class="px-4"><a href="{{ SITEURL }}/">{{ SITENAME }}{% if SITESUBTITLE %} <strong>{{ SITESUBTITLE }}</strong>{% endif %}</a></h1>
     </div>
 
-    <nav id="menu" class="p-2">
-        <ul>
+    <nav id="menu" class="px-4">
+        <ul class="inline-flex flex-wrap gap-2 px-4">
             {% for title, link in MENUITEMS %}
             <li><a href="{{ link }}">{{ title }}</a></li>
             {% endfor %}

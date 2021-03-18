@@ -9,13 +9,18 @@
                         {% include "includes/article_info.html" %}
                     </div>
                 {% endif %}
-                <div class="summary">{{ article.summary }}
-                    <a href="{{ SITEURL }}/{{ article.url }}">More...</a>
+                <div class="summary">
+                    {{ article.summary }}
+                    <a href="{{ SITEURL }}/{{ article.url }}" class="border border-gray-light px-4 py-1 my-1 rounded inline-block">More...</a>
                 </div>
             </article>
-            <hr/>
+            {% if not loop.last %}
+                <hr class="my-3" />
+            {% endif %}
         {% endfor %}
     {% endif %}
 
-    {% include 'includes/pagination.html' %}
+    <div class="mt-1 flex justify-center">
+        {% include 'includes/pagination.html' %}
+    </div>
 {% endblock content %}
