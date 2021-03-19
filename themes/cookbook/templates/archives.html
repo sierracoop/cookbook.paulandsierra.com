@@ -5,9 +5,9 @@
 {% block content %}
 <h1>Archives for {{ SITENAME }}</h1>
 
-<dl>
+<dl class="grid sm:grid-cols-2">
 {% for article in dates %}
-    <dt>{{ article.locale_date }}</dt>
+    <dt class="text-sm text-gray-500 mt-2">{{ article.locale_date }}</dt>
     <dd><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></dd>
 {% endfor %}
 </dl>
