@@ -39,5 +39,6 @@ ARCHIVES_SAVE_AS = 'archives/index.html'
 #RELATIVE_URLS = True
 
 STATIC_PATHS = [
-    "CNAME"
+    'CNAME',
+    'images'
 ]

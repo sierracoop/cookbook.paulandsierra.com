@@ -7,9 +7,9 @@ Pumpkin Pie Crust
 :tags: pie, crust, dessert, pie crust, pumpkin
 :author: Paul Schwendenman
 
-.. image:: {filename}/images/IMG_20151126_074704.jpg
+.. image:: {filename}/images/pumpkin-pie.jpg
     :alt: Pumpkin pie waiting to be put in the oven
-    :class: img-rounded img-responsive center-block img-shrink
+    :class: max-w-full h-auto rounded mx-auto
 
 
 Ingredients
