@@ -19,6 +19,9 @@
             <li{% if cat == category %} class="active"{% endif %}><a href="{{ SITEURL }}/{{ cat.url }}">{{ cat }}</a></li>
             {% endfor %}
             {% endif %}
+            {% if ARCHIVES_SAVE_AS %}
+            <li><a href="{{ SITEURL }}/{{ ARCHIVES_URL | default('archives.html') }}">archives</a></li>
+            {% endif %}
         </ul>
     </nav>
 </header>
