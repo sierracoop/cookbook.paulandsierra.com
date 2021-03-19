@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*- #
 
 AUTHOR = 'Paul Schwendenman'
-SITENAME = "Paul and Sierra's Cookbook"
+SITENAME = "Cookbook"
 SITEURL = ''
 
 # THEME = 'cookbook.paulandsierra.com-theme'
