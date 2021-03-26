@@ -4,8 +4,8 @@
 SITENAME = "Cookbook"
 SITEURL = ''
 
-# THEME = 'cookbook.paulandsierra.com-theme'
-THEME = "themes/cookbook"
+THEME = 'cookbook.paulandsierra.com-theme'
+# THEME = "themes/cookbook"
 
 PATH = 'content'
 
