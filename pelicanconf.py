@@ -31,6 +31,24 @@ SOCIAL = ()
 
 DEFAULT_PAGINATION = 10
 
+ARTICLE_URL = 'recipies/{slug}/'
+ARTICLE_SAVE_AS = 'recipies/{slug}/index.html'
+
+AUTHOR_URL = ''
+AUTHOR_SAVE_AS = ''
+AUTHORS_URL = 'authors/'
+AUTHORS_SAVE_AS = 'authors/index.html'
+
+CATEGORY_URL = 'categories/{slug}/'
+CATEGORY_SAVE_AS = 'categories/{slug}/index.html'
+CATEGORYS_URL = 'categories/'
+CATEGORYS_SAVE_AS = 'categories/index.html'
+
+TAG_URL = 'tags/{slug}/'
+TAG_SAVE_AS = 'tags/{slug}/index.html'
+TAGS_URL = 'tags/'
+TAGS_SAVE_AS = 'tags/index.html'
+
 ARCHIVES_URL = 'archives/'
 ARCHIVES_SAVE_AS = 'archives/index.html'
 
