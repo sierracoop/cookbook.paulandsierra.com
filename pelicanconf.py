@@ -59,3 +59,5 @@ STATIC_PATHS = [
     'CNAME',
     'images'
 ]
+
+DIRECT_TEMPLATES = ['index', 'categories', 'tags', 'archives']
