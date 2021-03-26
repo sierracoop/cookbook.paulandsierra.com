@@ -1,9 +1,11 @@
 {% extends "base.html" %}
 {% block content %}
+    {% block content_title %}
+    {% endblock %}
     {% if articles %}
         {% for article in (articles_page.object_list if articles_page else articles) %}
             <article>
-                <h2><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></h2>
+                <h3><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></h3>
                 {% if DISPLAY_ARTICLE_INFO_ON_INDEX %}
                     <div>
                         {% include "includes/article_info.html" %}
