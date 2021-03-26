@@ -5,7 +5,6 @@ Pioneer Woman's Baked Lemon Spaghetti
 :date: 2009-07-11
 :category: dessert
 :tags: dinner, pasta, lemon
-:author: Lauren
 
 
 Ingredients

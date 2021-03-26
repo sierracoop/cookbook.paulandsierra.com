@@ -5,7 +5,7 @@ Pumpkin Pie Crust
 :date: 2015-11-26 08:43
 :category: dessert
 :tags: pie, crust, dessert, pie crust, pumpkin
-:author: Paul Schwendenman
+:summary: A simple pie crust made with a food processor
 
 .. image:: {static}/images/pumpkin-pie.jpg
     :alt: Pumpkin pie waiting to be put in the oven
