@@ -61,3 +61,14 @@ STATIC_PATHS = [
 ]
 
 DIRECT_TEMPLATES = ['index', 'categories', 'tags', 'archives']
+
+SUMMARY_MAX_LENGTH = 15
+
+DEFAULT_PAGINATION = 10
+DEFAULT_ORPHANS = 3
+
+PAGINATION_PATTERNS = (
+    (1, '{url}', '{save_as}'),
+    (2, '{base_name}/{number}/', '{base_name}/{number}/index.html'),
+    (-1, '{base_name}/last/', '{base_name}/last/index.html'),
+)
