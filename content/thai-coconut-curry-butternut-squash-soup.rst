@@ -47,3 +47,9 @@ Directions
 
 Notes
 ======
+
+
+Source
+=======
+
+https://hostthetoast.com/thai-coconut-curry-butternut-squash-soup/
