@@ -3,7 +3,7 @@ Thai Coconut Curry Butternut Squash Soup
 ------------------------------------------
 
 :date: 2014-10-20 09:12
-:category: main-dish
+:category: entree
 :tags: dinner, soup, thai
 
 

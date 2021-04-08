@@ -3,7 +3,7 @@ Parmesan Orzo with Peas
 ========================
 
 :date: 2021-04-06
-:category: main-dish
+:category: entree
 :tags: orzo, pasta, peas
 
 Ingredients
