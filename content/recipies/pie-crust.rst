@@ -15,19 +15,16 @@ Pumpkin Pie Crust
 Ingredients
 =============
 
-.. table:: Ingredients
-    :class: table table-striped
-
-    =========== ===========================
-    Quantity     Ingredient
-    =========== ===========================
-    12 tbsp     very cold unsalted butter
-    3 cups      all-purpose flour
-    1 tsp       kosher salt
-    1 tbsp      sugar
-    1/3 cup     very cold vegetable shortening
-    6 - 8 tbsp  (about 1/2 cup) ice water
-    =========== ===========================
+=========== ===========================
+Quantity     Ingredient
+=========== ===========================
+12 tbsp     very cold unsalted butter
+3 cups      all-purpose flour
+1 tsp       kosher salt
+1 tbsp      sugar
+1/3 cup     very cold vegetable shortening
+6 - 8 tbsp  (about 1/2 cup) ice water
+=========== ===========================
 
 Directions
 ============
