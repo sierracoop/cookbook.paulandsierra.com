@@ -3,7 +3,7 @@ One Pot Spicy Thai Noodles
 ===========================
 
 :date: 2016-05-26
-:category: dinner
+:category: main-dish
 :tags: thai, noodles, spicy
 
 Ingredients
