@@ -33,7 +33,6 @@ Directions
 #. Bake, covered, for 15 minutes. Then remove foil and bake for an additional 7 to 10 minutes. (Don’t bake too long or the pasta will dry out.)
 #. When you remove it from the oven, squeeze a little more lemon juice over the top.
 #. Top generously with Parmesan cheese, then chopped parsley.Give it a final squeeze of lemon juice at the end.
-#. Serve with crusty French bread and a simple green salad.
 
 
 Source
