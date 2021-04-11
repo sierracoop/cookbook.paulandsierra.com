@@ -15,7 +15,7 @@ Ingredients:
 - Hot sauce
 - Tortillas
 
-.. _Lentil breakfast sausage: {filename}/recipies/lentil-breakfast-sausage.rst
+.. _Lentil breakfast sausage: {filename}/recipes/lentil-breakfast-sausage.rst
 
 Instructions
 ============================

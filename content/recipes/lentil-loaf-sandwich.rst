@@ -20,7 +20,7 @@ Ingredients
 - 2 tsp. Yellow mustard
 - 2 tsp. Dijon mustard
 
-.. _Leftover lentil loaf: {filename}/recipies/lentil-loaf.rst
+.. _Leftover lentil loaf: {filename}/recipes/lentil-loaf.rst
 
 Instructions
 ===============
