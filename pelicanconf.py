@@ -13,6 +13,15 @@ TIMEZONE = 'US/Eastern'
 
 DEFAULT_LANG = 'en'
 
+PLUGINS = [
+    'tag_cloud'
+]
+
+TAG_CLOUD_STEPS = 6
+TAG_CLOUD_BADGE = True
+TAG_CLOUD_SORTING = "random"
+TAG_CLOUD_MAX_ITEMS = 100
+
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
