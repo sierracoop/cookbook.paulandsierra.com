@@ -62,6 +62,9 @@ markupsafe==1.1.1; python_version >= "3.6" and python_full_version < "3.0.0" and
     --hash=sha256:22c178a091fc6630d0d045bdb5992d2dfe14e3259760e713c490da5323866c39 \
     --hash=sha256:b7d644ddb4dbd407d31ffb699f1d140bc35478da613b441c582aeb7c43838dd8 \
     --hash=sha256:29872e92839765e546828bb7754a68c418d927cd064fd4708fab9fe9c8bb116b
+pelican-tag-cloud==1.0.0; python_version >= "3.6" and python_version < "4.0" \
+    --hash=sha256:3c5643f1880a834ddfa0062eb366f2559fec6d20cd72e8d3452e9047221d884f \
+    --hash=sha256:b9878e37d76b5f28bd6286ddd728456fa9d07cde7486fb97648d963f6db0f905
 pelican==4.5.4; python_version >= "3.6" and python_version < "4.0" \
     --hash=sha256:945f3ad61a31c55260d5f762783c7ac2708f331c685c617468f4655bb04abde1 \
     --hash=sha256:0e9de7f4c7a2a21784f8aed9c7df6003cebfb39a36d0adbafd303d66649dc3ad
