@@ -13,6 +13,7 @@ Ingredients
 - 1/2 cup Red Bell Pepper, chopped
 - 1/2 cup Celery, chopped
 - 1/2 cup Grapes, quartered
+- 1/2 cup Walnuts, chopped (optional)
 - 2 tbsp. Grated Parmesan
 - 1 tbsp. Lemon Juice
 - 2 tsp. Soul Seasoning
@@ -28,3 +29,8 @@ Instructions
 #. Add chickpeas to a bowl and mash with potato masher until desired texture
 #. Add rest of ingredients to bowl. Stir.
 #. Spoon onto halved croissants
+
+Notes
+======
+
+- Add walnuts for a little extra crunch
