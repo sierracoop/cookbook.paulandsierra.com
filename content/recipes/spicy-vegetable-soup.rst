@@ -43,3 +43,5 @@ Notes:
 =======
 
 - Normal Rotel can be used to make the soup less spicy
+- White Beans and/or noodles can subsituted for the lentils. We used a can of cannellini beans
+  and a half cup ditalini, adding them after the potatoes were cooked.
