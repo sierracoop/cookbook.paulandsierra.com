@@ -1,5 +1,5 @@
 =======================================
-Pioneer Woman's Baked Lemon Spaghetti
+Baked Lemon Spaghetti
 =======================================
 
 :date: 2009-07-11
