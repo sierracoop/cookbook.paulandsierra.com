@@ -7,7 +7,7 @@ Caesar Dressing Two Ways
 :tags: dinner, salad
 
 Classic Caesar:
-===================
+----------------
 
 Ingredients:
 ================
@@ -23,14 +23,16 @@ Ingredients:
 
 Instructions:
 ==================
+
 #. Roughly chop garlic and capers. Add coarse salt and chop/mash into a paste. Add to bowl
 #. Whisk rest of ingredients. Add salt/pepper as needed
 
 Creamy Steakhouse Caesar:
-=============================
+--------------------------
  
 Ingredients:
 ==================
+
 - 1/2 cup mayo
 - 1/4 cup buttermilk
 - 2 tbsp. dry Ranch Dressing mix
